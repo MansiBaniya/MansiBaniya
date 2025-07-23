@@ -5,7 +5,7 @@ Data Analyst
 
 - 🌱 I’m currently learning **NumPy,Pandas,Seaborn,MatPlotlib**
 
-- 👯 I’m looking to collaborate on [BlinkIT Dataset Analysis Power BI](https://github.com/MansiBaniya/BlinKit-Data-Analysis-Visualization)
+- 👯 I’ve done the project [BlinkIT Dataset Analysis Power BI](https://github.com/MansiBaniya/BlinKit-Data-Analysis-Visualization)
 
 - 👨‍💻 All of my projects are available at [https://github.com/MansiBaniya](https://github.com/MansiBaniya)
 
